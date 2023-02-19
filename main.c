@@ -20,4 +20,5 @@ int main()
    a=b;
    b=c;
    }
+  return 0;
 }
