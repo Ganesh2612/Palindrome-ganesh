@@ -14,5 +14,5 @@ int main()
    a=b;
    b=c;
    }
-   return 0;
+   return 1;
 }
